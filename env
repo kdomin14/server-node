@@ -1,0 +1,12 @@
+# Main Node ENV mode
+NODE_ENV=development
+
+# App General Configuration
+TITLE=Node API Server
+PORT=3000
+
+# Request Log level
+MORGAN_LOG=dev
+
+# Cors origin URL
+ORIGIN=*
